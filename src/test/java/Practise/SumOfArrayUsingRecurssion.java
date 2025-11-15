@@ -9,7 +9,7 @@ public class SumOfArrayUsingRecurssion {
             return 0;
         }
 
-        System.out.println("Sonar Fix number 1 applied");
+        System.out.println("Sonar Fix number 2 applied");
 
         return arr[index] + sum_array_recurr_algo(arr, index + 1);
     }
