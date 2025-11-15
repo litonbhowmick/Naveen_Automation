@@ -10,7 +10,6 @@ public class SumOfArrayUsingRecurssion {
         }
 
         System.out.println("Sonar Fix number 2 applied");
-        System.out.println("master added functionality");
 
         return arr[index] + sum_array_recurr_algo(arr, index + 1);
     }
