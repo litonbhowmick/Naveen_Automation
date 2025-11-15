@@ -20,6 +20,6 @@ public class SumOfArrayUsingRecurssion {
 
         int sum = sum_array_recurr_algo(arr, 0);
         System.out.println(sum);
-        System.out.println("Sonar Fix number 2");
+        System.out.println("This is main branch code and sonar fix test case code shoulnd be here");
     }
 }
