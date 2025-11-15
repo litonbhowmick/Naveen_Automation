@@ -9,8 +9,7 @@ public class SumOfArrayUsingRecurssion {
             return 0;
         }
 
-        System.out.println("Sonar Fix number 2 applied");
-        System.out.println("master added functionality");
+        System.out.println("Sonar Fix number 3 applied");
 
         return arr[index] + sum_array_recurr_algo(arr, index + 1);
     }
@@ -21,6 +20,6 @@ public class SumOfArrayUsingRecurssion {
 
         int sum = sum_array_recurr_algo(arr, 0);
         System.out.println(sum);
-        System.out.println("This is main branch and sonar fix shouldn't override this line.");
+        System.out.println("SOME SONAR ISSUES FIXED");
     }
 }
