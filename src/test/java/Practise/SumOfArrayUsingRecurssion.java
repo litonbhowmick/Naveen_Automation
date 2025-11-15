@@ -21,5 +21,6 @@ public class SumOfArrayUsingRecurssion {
         int sum = sum_array_recurr_algo(arr, 0);
         System.out.println(sum);
         System.out.println("This is my master branch code changes and sonar shouldn't override it");
+        System.out.println("Adding another line to check sonar issues");
     }
 }
